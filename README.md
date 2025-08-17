@@ -87,6 +87,8 @@ Response:
 🤝 Contributing
 Pull requests are welcome! Please open an issue to discuss changes before submitting.
 
+---
+
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
